@@ -1,5 +1,7 @@
 # OS lab , (bash pratical)
-Manali Ram, roll no.6 , batch 1 , 3a5
+Manali Ram
+Batch 1 3A5
+Roll no.6
 
 ## Assignment 1: User Management
 This script automates the process of adding new users to a Linux system.
