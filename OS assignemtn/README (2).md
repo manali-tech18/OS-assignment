@@ -1,6 +1,6 @@
 # OS lab , (bash pratical)
-Manali Ram
-Batch 1 3A5
+Manali Ram,
+Batch 1 3A5,
 Roll no.6
 
 ## Assignment 1: User Management
